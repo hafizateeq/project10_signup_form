@@ -1,0 +1,9 @@
+.submitButton{
+  width: 76% !important;
+}
+.avatar{
+  background: crimson !important;
+}
+.errorMessage{
+  color:red;
+}
